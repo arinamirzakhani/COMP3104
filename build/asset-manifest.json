@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arinamirzakhani/COMP3104/static/css/main.27ca76a1.css",
+    "main.js": "/arinamirzakhani/COMP3104/static/js/main.ab22a9d8.js",
+    "static/js/453.963c96ea.chunk.js": "/arinamirzakhani/COMP3104/static/js/453.963c96ea.chunk.js",
+    "index.html": "/arinamirzakhani/COMP3104/index.html",
+    "main.27ca76a1.css.map": "/arinamirzakhani/COMP3104/static/css/main.27ca76a1.css.map",
+    "main.ab22a9d8.js.map": "/arinamirzakhani/COMP3104/static/js/main.ab22a9d8.js.map",
+    "453.963c96ea.chunk.js.map": "/arinamirzakhani/COMP3104/static/js/453.963c96ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.ab22a9d8.js"
+  ]
+}
